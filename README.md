@@ -9,7 +9,7 @@ This is a small Python application built using FastAPI to fetch temperature and 
 
 ## Usage
 
-1. Sign up for an API key from OpenWeatherMap (https://home.openweathermap.org/users/sign_up) and replace `your_openweathermap_api_key_here` in `main.py` with your API key.
+1. Sign up for an API key from OpenWeatherMap (https://home.openweathermap.org/users/sign_up) and replace `OPENWEATHERMAP_API_KEY` in `main.py` with your API key. I've left mine as an example.
 2. Run the application using `uvicorn main:app --reload`.
 3. Access the endpoints:
    - `/temperature`: Get the temperature forecast for Lisbon in 3 days.
