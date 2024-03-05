@@ -5,7 +5,7 @@ This is a small Python application built using FastAPI to fetch temperature and 
 ## Installation
 
 1. Clone this repository.
-2. Install dependencies using `pip install -r requirements.txt`.
+2. Install dependencies using `pip3 install -r requirements.txt`.
 
 ## Usage
 
@@ -17,4 +17,4 @@ This is a small Python application built using FastAPI to fetch temperature and 
 
 ## Testing
 
-1. Run tests using `python test_main.py`.
+1. Run tests using `python3 test_main.py`.
